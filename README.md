@@ -46,7 +46,6 @@ After running, check these:
 - `keylog.txt`: should still contain all raw key logs
 - Screenshots will stay in the `screenshots/` folder
 
-===========================
 ✅ DONE! SCRIPT RAN LOCALLY
 ===========================
 
